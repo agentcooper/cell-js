@@ -1,4 +1,4 @@
-import { hydrogeneBonds } from 'physics';
+import { hydrogeneBonds } from './physics';
 
 class Protein {
   // https://simple.wikipedia.org/wiki/Protein_structure
