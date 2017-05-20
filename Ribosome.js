@@ -1,4 +1,4 @@
-import Protein from './protein';
+import Protein from './Protein';
 
 class Ribosome {
   transcribe(dna, mRNA) {

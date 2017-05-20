@@ -4,6 +4,7 @@ import Ribosome from './Ribosome';
 import Lysosome from './Lysosome';
 import Mitochondria from './Mitochondria';
 import GolgiApparatus from './GolgiApparatus';
+
 import Vacuole from './Vacuole';
 import Centrosome from './Centrosome';
 
