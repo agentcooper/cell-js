@@ -18,7 +18,7 @@ Can we explain basic molecular biology using a programming language?
 
 This repository is a draft example aimed to encode some basic biology principles using one of the most popular web language - JavaScript. This code is not meant to be run and far from finished.
 
-Start code exploration from `index.js`. Hint: it is easier to explore code dependencies on GitHub with [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp).
+Start code exploration from [`index.js`](https://github.com/agentcooper/cell-js/blob/master/index.js). Hint: it is easier to explore code dependencies on GitHub with [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp).
 
 Does this ideas resonate with you? Drop me a line at artem.tyurin@gmail.com.
 
